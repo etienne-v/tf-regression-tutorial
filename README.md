@@ -1,0 +1,1 @@
+This two-part tutorial explains how to perform linear and non-linear regression using TensorFlow.  Utilizing TensorBoard for visualizing the graph as well as the loss, weights and biases during training is also explained.  Both full gradient descent and stochastic gradient descent are implemented.
